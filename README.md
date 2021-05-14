@@ -13,6 +13,7 @@ This course contains :
 * Hough Line Transform
 * Corner Detection
 * Introduction to Convolutional Neural Networks
+
 this list will be updated. 
 # Session 1: 
 # Session 2:
