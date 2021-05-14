@@ -18,8 +18,8 @@ this list will be updated.
 # Session 1: 
 # Session 2:
 # Homework 1:
-## Q1: 
-  assaads
+* Q1: 
+  Use the Simple geometric shape to draw something
 # Session 3:
 # Homework 2:
 # Session 4:
