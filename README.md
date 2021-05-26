@@ -20,8 +20,11 @@ this list will be updated.
 # Homework 1:
 * Q1: 
   Use the Simple geometric shapes to draw something
+* Q2:
+  Create a Simple Gradient photo 
 # Session 3:
 # Homework 2:
+Every Video is  
 # Session 4:
 # Homework 3:
 # Session 5:
