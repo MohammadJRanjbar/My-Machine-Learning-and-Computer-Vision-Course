@@ -24,7 +24,7 @@ this list will be updated.
   Create a Simple Gradient photo 
 # Session 3:
 # Homework 2:
-Every Video is  
+Every Video is consists of many frames. Each frame has pixcles with various colors. In this homework we calculate the  
 # Session 4:
 # Homework 3:
 # Session 5:
