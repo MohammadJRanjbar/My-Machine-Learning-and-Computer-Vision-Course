@@ -28,10 +28,8 @@ This Session consists of basic OpenCV syntax:
 * Drawing geometric shape
 * setting Camera parameters
 # Homework 1:
-* Q1: 
-  Use the Simple geometric shapes to draw something
-* Q2:
-  Create a Simple Gradient photo 
+* Q1: Use the Simple geometric shapes to draw something
+* Q2: Create a Simple Gradient photo 
 # Session 3:
 This Session consists of: 
 * Events in OpenCV
@@ -57,13 +55,25 @@ This Session consists of:
 * Edge detection
 * Image Pyramids
 # Homework 5:
-Change the edge detecion threshold using trackbars.
+Change the edge detection threshold using trackbars
 ![image](https://user-images.githubusercontent.com/52662413/121269015-4f0ff580-c8d4-11eb-98ec-337d3716cff5.png)
 # Session 7:
+This Session consists of: 
+* Contours
+* Histogram
+* Mach template
 # Homework 6:
+Train a simple CNN and try to improve the accuracy
 # Session 8:
+This Session consists of:
+* Hough space and Hough transformation
 # Homework 7:
+* Q1: Implement a system which will set an alarm when a theft entered the room and if possible take a picture of their face.
+* Q2: Detecting QR code
 # Session 9:
+This Session consists of:
+* Region of interests
+* working with some models
 # Project:
 The project is about implementing lane detection using OpenCV and controlling the car with them.
 We use Avis engine [Avis engine](https://avisengine.com/) Which was designed by a team in AmirKabir university 
@@ -71,4 +81,7 @@ This is a result of one of my [students](https://github.com/adib-vali) for code 
 
 ![](Project/Car.gif)
 # Session 10:
+This Session consists of:
+* Harris Corner Detector
+
 
