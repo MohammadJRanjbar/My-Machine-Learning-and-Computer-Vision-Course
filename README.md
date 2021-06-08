@@ -37,6 +37,9 @@ Every Video is consists of many frames. Each frame has pixcles with various colo
 # Homework 7:
 # Session 9:
 # Project:
+The project is about implementing lane detection using OpenCV and controlling the car with them.
+We use Avis engine [Avis engine](https://avisengine.com/) Which was designed by a team in AmirKabir university 
+This is a result of one of my [students](https://github.com/adib-vali) for code and more you can check his github
 ![](Project/Car.gif)
 # Session 10:
 
