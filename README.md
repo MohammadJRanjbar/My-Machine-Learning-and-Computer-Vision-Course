@@ -37,4 +37,6 @@ Every Video is consists of many frames. Each frame has pixcles with various colo
 # Homework 7:
 # Session 9:
 # Project:
+![](project/car.gif)
 # Session 10:
+
