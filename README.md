@@ -33,18 +33,32 @@ This Session consists of basic OpenCV syntax:
 * Q2:
   Create a Simple Gradient photo 
 # Session 3:
-This Session consists of : 
+This Session consists of: 
 * Events in OpenCV
 * Bitwise operation
 * using Trackbars in OpenCV
 # Homework 2:
 Implementing the [the colors of motion](https://thecolorsofmotion.com/) with opencv
 # Session 4:
+This Session consists of: 
+* Color Detection 
+* Thresholds
 # Homework 3:
+Use OpenCV to detect faces and put Snapchat filter on the face.
 # Session 5:
+This Session consists of: 
+* An introduction to Matplotlib
+* simple Matplotlib syntax (plot, subplot,...)
+* Filters and Morphological transformations
 # Homework 4:
+In the provided video detect the red colour.
 # Session 6:
+This Session consists of: 
+* Edge detection
+* Image Pyramids
 # Homework 5:
+Change the edge detecion threshold using trackbars.
+![image](https://user-images.githubusercontent.com/52662413/121269015-4f0ff580-c8d4-11eb-98ec-337d3716cff5.png)
 # Session 7:
 # Homework 6:
 # Session 8:
