@@ -14,7 +14,7 @@ This course contains :
 * Corner Detection
 * Introduction to Convolutional Neural Networks
 
-this list will be updated. 
+I will update this repository.
 # Session 1: 
 This Session consists of : 
 * An introduction to image processing
